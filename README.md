@@ -143,7 +143,7 @@ Where **ros2** is the name of the docker image we have created
 # Run the Docker container From Compose File
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 The container will now be running, you can check to see if its running using the **docker ps** command.
