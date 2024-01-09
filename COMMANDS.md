@@ -7,7 +7,7 @@
 * **ls -a**: List all files, including hidden ones
 * **cd**: Change directory
 * **cd ..**: Move up one directory
-* **cd ~**: Move to the home directory
+* cd ~: Move to the home directory
 
 ## File and Directory Manipulation:
 * **touch filename**: Create an empty file
