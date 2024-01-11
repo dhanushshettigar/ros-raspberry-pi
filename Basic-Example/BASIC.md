@@ -84,6 +84,7 @@ services:
    environment:
     - DISPLAY=${DISPLAY}
    volumes:
+    - /home/ros:/home/ros
     - /tmp/.X11-unix:/tmp/.X11-unix
    devices:
     - /dev/ttyUSB0:/dev/ttyUSB0
