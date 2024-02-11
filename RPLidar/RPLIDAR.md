@@ -50,6 +50,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     python3-serial \
     ros-iron-rviz2 \
     libogre-1.12.dev \
+    python3-pygame \
     && rm -rf /var/lib/apt/lists/*
 
 ```
